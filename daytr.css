@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #092948;
+}
+
+header {
+  width: 100%;
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+}
