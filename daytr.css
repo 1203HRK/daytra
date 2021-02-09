@@ -13,3 +13,7 @@ header ul {
   display: flex;
   list-style: none;
 }
+
+.main-vsual {
+  width: 100%;
+}
