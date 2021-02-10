@@ -9,9 +9,22 @@ header {
   width: 100%;
 }
 
+nav {
+  width: 70%;
+  margin: auto;
+}
+
 header ul {
   display: flex;
   list-style: none;
+}
+
+header li {
+  padding-left: 30px;
+}
+
+header li:first-child {
+  margin-right: auto;
 }
 
 .main-vsual {
