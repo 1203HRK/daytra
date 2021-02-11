@@ -7,16 +7,15 @@
 
 header {
   width: 100%;
-}
-
-nav {
-  width: 70%;
-  margin: auto;
+  height: 50px;
 }
 
 header ul {
-  display: flex;
+  width: 60%;
   list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 header li {
@@ -29,4 +28,12 @@ header li:first-child {
 
 .main-vsual {
   width: 100%;
+}
+
+.about {
+  text-align: center;
+}
+
+.about-item {
+  display: flex;
 }
