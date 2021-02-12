@@ -36,4 +36,17 @@ header li:first-child {
 
 .about-item {
   display: flex;
+  justify-content: center;
+}
+
+.about h2 {
+  margin: 20px 0;
+}
+
+.about-item img {
+  width: 45%;
+}
+
+.about-item p {
+  width: 45%;
 }
