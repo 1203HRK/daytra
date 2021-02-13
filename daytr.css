@@ -50,3 +50,15 @@ header li:first-child {
 .about-item p {
   width: 45%;
 }
+
+.course h2 {
+  margin: 20px 0;
+}
+
+.course-item {
+  display: flex;
+}
+
+.course-box img {
+  width: 75%;
+}
