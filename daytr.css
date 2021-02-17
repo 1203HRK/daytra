@@ -62,3 +62,15 @@ header li:first-child {
 .course-box img {
   width: 75%;
 }
+
+.contct {
+  text-align: center;
+}
+
+.contct h1 {
+  margin: 30px;
+}
+
+.contct-btn {
+  background-color: aquamarine;
+}
