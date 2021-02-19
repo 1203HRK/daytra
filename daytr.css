@@ -51,12 +51,17 @@ header li:first-child {
   width: 45%;
 }
 
+.course {
+  text-align: center;
+}
+
 .course h2 {
   margin: 20px 0;
 }
 
 .course-item {
   display: flex;
+  justify-content: center;
 }
 
 .course-box img {
@@ -73,4 +78,8 @@ header li:first-child {
 
 .contct-btn {
   background-color: aquamarine;
+}
+
+.course-box p {
+  text-align: left;
 }
