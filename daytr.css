@@ -83,3 +83,19 @@ header li:first-child {
 .course-box p {
   text-align: left;
 }
+
+input.mail {
+  width: 50%;
+  height: 30px;
+  border: 1px solid gray;
+  border-radius: 20px;
+}
+
+.contct-btn {
+  width: 30%;
+  height: 30px;
+  margin: 20px;
+  background-color: #ec6d64;
+  color: aliceblue;
+  border: none;
+}
